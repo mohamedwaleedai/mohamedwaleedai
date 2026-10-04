@@ -15,9 +15,6 @@ I build document and language systems — things that parse, retrieve, verify, a
 **[medfoundation](https://github.com/mohamedwaleedai/medfoundation)** `398 tests passing`
 A typed contract layer for medical AI pipelines. Every clinical claim must cite a verbatim evidence span and stays unverified until a named human reviews it. Append-only store, deterministic workflow runtime, clinical NLP engine, read-only chart viewer.
 
-**[Legal_contracts_NLP](https://github.com/mohamedwaleedai/Legal_contracts_NLP)** `team project`
-Arabic legal contract analyzer. Clause segmentation, hybrid BM25 + embedding retrieval over Egyptian law, risk flagging. Built with [@Mohamadadel510](https://github.com/Mohamadadel510) — I designed the retrieval architecture.
-
 **[asl-alphabet-recognition](https://github.com/mohamedwaleedai/asl-alphabet-recognition)** `computer vision`
 Real-time ASL fingerspelling from a webcam. MediaPipe landmarks → 121 geometric features → Keras MLP → 5-frame vote. The README states exactly what was and wasn't verified.
 
